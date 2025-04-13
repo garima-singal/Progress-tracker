@@ -16,7 +16,7 @@ env/
 # MacOS and Linux system files
 .DS_Store
 
-# Excel or data files (agar version control mein nahi rakhna chahte)
+# Excel or data files
 *.xlsx
 *.csv
 
@@ -29,3 +29,7 @@ env/
 # Backup files
 *.bak
 *.tmp
+
+# Ignore specific data file
+progress_data.xlsx
+
